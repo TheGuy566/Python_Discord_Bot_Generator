@@ -1,5 +1,6 @@
 # Python_Discord_Bot_Generator
-
+---
+This project is a CLI generates a template for a Python discord bot at the selected path.
 
 **Installation**
 ---
